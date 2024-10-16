@@ -1,4 +1,4 @@
-## Hola, mi nombre es Samuel, 👋
+## Hola, mi nombre es Samuel 👋
 
 Soy estudiante de Ingeniería Informática, en busca de oportunidades de prácticas que me permitan aplicar mis conocimientos y adquirir experiencia en un entorno profesional. Me encuentro en la etapa final de mi carrera y estoy comprometido a seguir formándome, tanto a través de proyectos, lectura de libros y cursos.
 
@@ -9,11 +9,6 @@ Soy estudiante de Ingeniería Informática, en busca de oportunidades de prácti
 - Bases de datos: MySQL.
 - Control de versiones: Git.
 - Contenedores: Docker.
-- Sistemas operativos: Linux.
-- Redes: Certificaciones de Cisco.
-- Estructuras de datos: Listas, colas, árboles, grafos, entre otros.
-- Diseño de algoritmos: Búsqueda, recorrido de árboles, grafos, backtracking, PSO, entre otros.
-- Programación concurrente.
 
 ---
 
