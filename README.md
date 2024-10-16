@@ -45,4 +45,4 @@ Correo electrónico: Samuel.fernandezpeinado@gmail.com
 [![Linkedin: Samuel Fernández](https://img.shields.io/badge/-Samuel.fp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-fernandezpeinado)](https://www.linkedin.com/in/samuel-fernandezpeinado/)
 [![GitHub: Samuel Fernández](https://img.shields.io/github/followers/Samuel-fps?label=Samuel-fps&style=social)](https://github.com/Samuel-fps)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-fps&exclude_repo=https://github.com/Samuel-fps/DSH.git)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-fps&exclude_repo=DSH)](https://github.com/anuraghazra/github-readme-stats)
